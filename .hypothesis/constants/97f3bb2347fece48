@@ -1,0 +1,4 @@
+# file: /home/ubuntu/drive_organizer_v2/drive_organizer/migrator.py
+# hypothesis_version: 6.151.6
+
+[',', '.aac', '.aiff', '.alac', '.flac', '.m4a', '.mp3', '.ogg', '.opus', '.wav', '.wma', '[]\'"', 'completed', 'dry_run', 'duplicate_flag', 'error', 'errors', 'executed', 'migration_plan.json', 'move', 'rename', 'skipped', 'total_planned', 'utf-8', 'w']

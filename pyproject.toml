@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drive-organizer"
+version = "2.0.0"
+description = "Google Drive Analysis, Reorganization & Migration Tool"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+    {name = "Angel Evans", email = "angelreporters@gmail.com"},
+]
+dependencies = [
+    "google-api-python-client>=2.0",
+    "google-auth-httplib2>=0.1",
+    "google-auth-oauthlib>=1.0",
+    "cryptography>=41.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "hypothesis>=6.0",
+]
+
+[project.scripts]
+drive-organizer = "drive_organizer.__main__:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"

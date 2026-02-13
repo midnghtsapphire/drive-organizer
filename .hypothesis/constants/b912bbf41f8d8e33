@@ -1,0 +1,4 @@
+# file: /home/ubuntu/drive_organizer_v2/drive_organizer/auth.py
+# hypothesis_version: 6.151.6
+
+[384, '.drive_organizer_key', 'client_id', 'client_secret', 'credentials.json', 'r', 'refresh_token', 'scopes', 'token', 'token.json', 'token_uri', 'utf-8']

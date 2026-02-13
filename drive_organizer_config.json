@@ -1,0 +1,13 @@
+{
+  "api_calls_per_second": 8,
+  "batch_size": 100,
+  "max_retries": 7,
+  "base_delay": 1.0,
+  "credentials_file": "credentials.json",
+  "token_file": "token.json",
+  "output_dir": ".",
+  "dry_run": true,
+  "verbose": false,
+  "music_only": false,
+  "scan_only": false
+}
