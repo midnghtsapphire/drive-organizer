@@ -1,0 +1,4 @@
+# file: /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py
+# hypothesis_version: 6.152.9
+
+[200, 302, 'Content-Type', 'GET', 'Location', 'oauth_token', 'oauth_verifier', 'oob', 'resource_owner_key']
