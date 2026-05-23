@@ -1,4 +1,0 @@
-# file: /usr/lib/python3/dist-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py
-# hypothesis_version: 6.152.9
-
-['client_id', 'include_client_id', 'password']

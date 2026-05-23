@@ -1,4 +1,0 @@
-# file: /usr/lib/python3/dist-packages/oauthlib/oauth2/rfc6749/clients/service_application.py
-# hypothesis_version: 6.152.9
-
-[3600, 'RS256', 'aud', 'client_id', 'exp', 'iat', 'include_client_id', 'iss', 'jti', 'jwt_id', 'nbf', 'not_before', 'sub']

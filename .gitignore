@@ -6,6 +6,7 @@ dist/
 build/
 *.spec
 .pytest_cache/
+.hypothesis/
 .coverage
 htmlcov/
 *.key
