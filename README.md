@@ -4,6 +4,18 @@
 
 A modular Python application that scans, analyzes, categorizes, and reorganizes your entire Google Drive into a clean, industry-standard folder hierarchy. Built with security, performance, and extensibility in mind.
 
+## Revvel Standards (S2M)
+
+This repository has been run through the revvel-standards baseline documentation set:
+
+- [CHANGELOG.md](CHANGELOG.md)
+- [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)
+- [GO_TO_MARKET.md](GO_TO_MARKET.md)
+- [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md)
+- [SECURITY.md](SECURITY.md)
+
+**Website in Test (Vercel):** Not yet deployed (current product surface is CLI-first).
+
 ## Features
 
 - **Modular Architecture** — Clean package structure with separated concerns (auth, categorizer, operations, music, migrator, reporter)
@@ -236,4 +248,3 @@ SOFTWARE.
 | Feature | Status |
 |---------|--------|
 | Feature | ✅ Ready |
-
