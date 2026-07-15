@@ -1,5 +1,12 @@
 # Drive Organizer v2.0.0
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/drive-organizer?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/drive-organizer?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/drive-organizer?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-2.0.0-blue?style=flat-square)](https://pypi.org/project/drive-organizer)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 **Google Drive Analysis, Reorganization & Migration Tool**
 
 A modular Python application that scans, analyzes, categorizes, and reorganizes your entire Google Drive into a clean, industry-standard folder hierarchy. Built with security, performance, and extensibility in mind.
